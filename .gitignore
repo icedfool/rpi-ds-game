@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python virtual environment
+src/backend/venv/
+src/backend/__pycache__/
+src/backend/*.pyc
+src/backend/*.pyo
+src/backend/*.pyd
+src/backend/.Python
+src/backend/pip-log.txt
+src/backend/.env
